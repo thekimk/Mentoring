@@ -2,6 +2,10 @@
 
 #### :smirk: 김경원 교수 소개 (<a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a> <a href="https://scholar.google.com/citations?hl=ko&user=nHPe-4UAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=Google Scholar&logoColor=white"/></a> <a href="https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> <a href="https://github.com/thekimk" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>)
 
+> (1) **[카카오톡채널](http://pf.kakao.com/_Exfqqb):** 카카오톡 채널에서 `김경원 교수` 검색하여 확인 가능 (`빠른 실시간`)    
+> (2) **이메일:** thekimk.kr@gmail.com, thekimk@inu.ac.kr (`빠른 실시간`)    
+> (3) **전화:** 032-835-8525 (`긴급 실시간`)    
+
 #### : DEBA 연구실은 디지털경제의 표준이 되어가고 있는 `빅데이터와 머신/딥러닝이란 인공지능 이론을 활용`하여, `경제산업 분야의 문제`를 `데이터`를 기반으로 `정량적으로 분석하고 의사결정`함으로써 `전략적으로 문제를 해결`하기 위한 방법을 연구합니다.     
 
 ## :books: 본 멘토링을 통해 아래 `2가지 목표를 달성`합니다.    
