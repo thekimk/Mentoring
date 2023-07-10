@@ -7,17 +7,14 @@
 ## :books: 목표
 본 멘토링을 통해 아래 `2가지 목표를 달성을 위한 2가지 Track`으로 운영합니다.    
 
-**[Track 1]:** 지원자격에 따르면 베이직 트랙이 불필요하지만 `추가적인 복습 또는 별도 필요성이 있는 멤버`
+**[Track 1]:** 
 
-- **목표:** 각 멤버는 본인이 원하는 데이터 또는 아래 12종 비즈니스 문제 중 1개를 선택하여 강의내용을 활용하여 `비즈니스 활용 기획과 전략을 지도교수에게 발표하기`
-- **방향:** 아래의 `비즈니스 문제 대상 데이터` 중 관심있는 데이터를 직접 선택하여 분석하고 `비즈니스 활용 기획과 전략을 제시`하기     
-- **기간:** 스터디 모집 후 `다음 기수 모집 전까지 1년 내`
-- **진행방법:** (`초반`) 정기 모임에서 여러분들의 `삶의 방향` 체크 + (`중반`) 온/오프라인 `멤버들의 정기적 스터디`를 통해 역량 향상
-- **발표시기:** 멤버마다 진도율이 다를 수 있는 것을 감안하여, `준비가 완료되면 언제든 스터디 때 발표`하며 미리 알려주면 `지도교수가 스터디 참여`
-- **자료:**
-> - [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming)
-> - [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience)
-> - [All-About-Machine-Learning](https://github.com/thekimk/All-About-Machine-Learning)
+- **목표:** `머신러닝을 활용한 데이터분석 과정을 완성`하고 어떻게 `비즈니스 활용될 수 있을지 데이터 기반 전략을 제시`
+- **대상 데이터:** `본인이 원하는 데이터` 또는 아래에 제시된 미래를 예측 또는 분류해내기 위한 `12종 비즈니스 문제 중 1개`를 선택
+- **강의 자료:**
+> - [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming): [실습] 데이터분석에 필요한 `Python 주요 기능을 소개 및 테스트`
+> - [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience): [이론] 데이터싸이언스 배경이 되는 `확률, 통계, 알고리즘 등을 소개`
+> - [All-About-Machine-Learning](https://github.com/thekimk/All-About-Machine-Learning): [이론+실습] 위 이론과 실습을 기반으로 `머신러닝 활용 데이터분석 소개`
 
 **[Track 2]:** 실질적인 `데이터 분석을 시작하는 단계`로 베이직 트랙을 충분히 이수하고 `본격적인 데이터를 활용하고 싶은 멤버` 
 
