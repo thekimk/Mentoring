@@ -16,7 +16,7 @@
 > - [`이론`] 데이터싸이언스 배경이 되는 `확률, 통계, 알고리즘 등을 소개`: [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience)
 > - [`실습`] 데이터분석에 필요한 `Python 주요 기능을 소개 및 테스트`: [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming)
 > - [`이론+실습+데이터`] 위 이론과 실습을 기반으로 `머신러닝 활용 데이터분석 소개`: [All-About-Machine-Learning](https://github.com/thekimk/All-About-Machine-Learning)
-- **대상 데이터:** `본인이 원하는 데이터` 또는 아래에 제시된 미래를 예측 또는 분류해내기 위한 `12종 비즈니스 문제 중 1개`를 선택
+- **대상 데이터:** 미래를 예측 또는 분류하기 위해 `본인이 원하는 데이터` 또는 아래 `12종 비즈니스 문제 중 1개`를 선택
 - **12종 비즈니스문제 관련 데이터:** `스포츠, 비즈니스, 교육, 문화, 인간, 금융, 여행, 마케팅, 의학, 이커머스, 서비스 등`
 
 | **분야** | **비즈니스 목적** | **파일명** | **종속변수 Y** | **설명링크** |
